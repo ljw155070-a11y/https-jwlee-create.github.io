@@ -96,7 +96,7 @@ const Main = () => {
             안녕하세요
             <br />
             <strong className="home_title--strong">
-              신입 개발자 전현우입니다.
+              신입 개발자 이진원입니다.
             </strong>
           </h2>
           <p className="home_description">
