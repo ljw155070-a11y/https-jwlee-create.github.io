@@ -108,7 +108,7 @@ const Header = () => {
 
         <h1 className="header_logo_title">
           <Link to="#home" onClick={(e) => handleNavClick(e, "#home")}>
-            HyunWoo
+            Jinwon
           </Link>
         </h1>
       </div>
